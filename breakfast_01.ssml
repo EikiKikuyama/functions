@@ -1,0 +1,14 @@
+<speak version="1.0" xml:lang="en-US">
+  <voice name="en-US-GuyNeural">
+    <prosody rate="0.8">
+      Over the past 4 years we investigated what students at our university had for breakfast.
+      The survey data shows changes in preference in the following four categories:
+      bread, cereal, rice, and yogurt.
+      Interestingly, the percentage of students who chose bread steadily decreased,
+      while the percentage of those who ate yogurt rose fairly consistently.
+      Rice’s popularity fell sharply at one point, but in 2024 it returned to about
+      the same level as in 2021.
+      The percentage of students selecting cereal remained the lowest throughout.
+    </prosody>
+  </voice>
+</speak>

@@ -1,0 +1,50 @@
+[
+  {
+
+    "docId": "Level1_Lesson1_A",
+
+   
+    "id": "L1_A_01",
+    "level": "Level1",
+    "pattern": "A",        
+    "title": "Lesson1",
+    "visible": true,
+    "dictation": "dictation.json", 
+
+    "passages": [
+      {
+        "order": 1,
+        "title": "At the zoo",
+        "pattern": "A",     
+        "audioPath": "official/Level1/Lesson1/A/passage1/listening.wav",
+        "questionsPath": "official/Level1/Lesson1/A/passage1/listening_questions.json",
+        "scriptPath": "official/Level1/Lesson1/A/passage1/listening.txt",
+        "subtitlePath": "official/Level1/Lesson1/A/passage1/listening_subtitles.json",
+        "durationSec": 25
+      }
+    ]
+  },
+
+  {
+    "docId": "Level1_Lesson2_A",
+    "id": "L1_A_02",
+    "level": "Level1",
+    "pattern": "A",
+    "title": "Lesson2",
+    "visible": true,
+    "dictation": "dictation.json",
+    "passages": [
+      {
+        "order": 1,
+        "title": "School lunch time",
+        "pattern": "A",
+        "audioPath": "official/Level1/Lesson2/A/passage1/listening.wav",
+        "questionsPath": "official/Level1/Lesson2/A/passage1/listening_questions.json",
+        "scriptPath": "official/Level1/Lesson2/A/passage1/listening.txt",
+        "subtitlePath": "official/Level1/Lesson2/A/passage1/listening_subtitles.json",
+        "durationSec": 30
+      }
+    ]
+  }
+
+]

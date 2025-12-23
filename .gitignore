@@ -1,0 +1,24 @@
+node_modules/
+*.local
+.env
+.env.*
+*.env
+
+# Python venv
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# Python venv
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# Secrets
+serviceAccountKey.json
+*.json.key
+
+# Local test scripts
+test_whisper_word.py
