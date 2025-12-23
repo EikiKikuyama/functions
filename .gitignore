@@ -22,3 +22,8 @@ serviceAccountKey.json
 
 # Local test scripts
 test_whisper_word.py
+
+# Python venv
+.venv/
+venv/
+__pycache__/
